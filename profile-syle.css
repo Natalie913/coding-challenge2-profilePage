@@ -3,14 +3,13 @@
     padding:0;
     box-sizing: border-box;
     text-align: center;
-    
     height:fit-content
 }
 header{
     width:100%;
     height:13rem;
     background-color:rgb(226, 223, 223);
-    padding-top:50px;
+   padding-top: 40px;
 }
 
 .pic{
@@ -25,13 +24,17 @@ margin-top: -5rem;
 border: 10px solid white 
 }
 
+#introduction{
+    margin-top:-30px;
+}
+
 section{
     width:50%;
-    line-height:20px;
-   font-weight: 600;
+    line-height:22px;
     font-family: Arial, Helvetica, sans-serif;
-    margin-bottom: 50px;
-    margin-top:30px;
+    margin-bottom: ;
+    padding-top: 40px;
+    
     
 }
 
@@ -48,7 +51,7 @@ section{
 #serviceButton{
 border:0;
 width:6rem;
-height:2rem;
+height:2.5rem;
 background-color:rgb(30,144,255) ;
 border-radius: 8px;
 color: white;
@@ -57,4 +60,33 @@ margin-top: 30px;
 
 p{
     margin-top: 30px;
+}
+
+#squarePic{
+    border-radius: 10px;
+}
+
+#bcolor2{
+    background-color: rgb(250,235,215);
+}
+
+h2{
+    padding-bottom: 15px;
+
+}
+
+#resumeButton{
+    width:6.5rem;
+    height:2rem;
+    border:0;
+    background-color: rgb(51,51,51);
+    color:white;
+    border-radius: 5px;
+    margin:30px
+    
+}
+
+#bcolor3{
+   background-color: darkgrey;
+   margin-top:-30px
 }
