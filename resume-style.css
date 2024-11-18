@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.basic{
+
+   
+   padding:10px;
+    background-color: rgba(182, 216, 240, 0.399);
+position:absolute
+
+    
+
+}
+
+#name{
+    margin-top:50px;
+    margin-left:40px;
+    width:120px;
+    height:50px;
+    margin-bottom:5px;
+    position:relative;
+}
+
+#position{
+    width:120px;
+    height:30px;
+    margin-left:40px;
+   position:absolute;
+
+    
+
+}
+
+.info{
+    width:40rem;
+     border:2px solid white;
+     background-color: rgba(182, 216, 240, 0.399);
+     margin-left:10.5rem;
+     
+     
+
+   
+   
+}
+
+h3{
+    width:120px;
+    background-color: white;
+    margin-left:40px;
+}
+
+hr{
+    width:40rem;
+    margin-top:3px;
+    margin-left:10.5rem;
+    border: 3px solid black;
+   
+
+
+}
