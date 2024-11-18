@@ -36,10 +36,13 @@ position:absolute
 
 .info{
     width:40rem;
-     border:2px solid white;
+    height:fit-content;
+     border:1px solid white;
      background-color: rgba(182, 216, 240, 0.399);
      margin-left:10.5rem;
-     
+     padding-top:2px;
+     padding-bottom:5px
+    
      
 
    
@@ -58,7 +61,4 @@ hr{
     margin-top:3px;
     margin-left:10.5rem;
     border: 3px solid black;
-   
-
-
 }
